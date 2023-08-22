@@ -90,7 +90,7 @@ function App() {
             The International Council on Systems Engineering Human Systems
             Integration WG Conference
           </div>
-          <div>INCOSE HIS 2024</div>
+          <div>INCOSE HSI 2024</div>
         </div>
         <div className="date">
           August 25-29, 2024 ICC JEJU, Republic of Korea

@@ -53,7 +53,7 @@ function App() {
     };
   }, []);
 
-  const eventDate = useMemo(() => new Date("2023-08-26T09:00:00"), []);
+  const eventDate = useMemo(() => new Date("2024-08-26T09:00:00"), []);
   const [timeRemaining, setTimeRemaining] = useState<TimeRemaining>(
     getTimeRemaining(eventDate)
   );
